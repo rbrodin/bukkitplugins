@@ -1,0 +1,43 @@
+name: MaurFun
+version: 1.0
+main: me.Roam.MaurFun
+author: Roam
+description: A fun plugin!
+ 
+commands:
+    Firework:
+        description: Sets of a Firework where you are standing!
+    Creative:
+        description: Sets of a Firework where you are standing!
+    Day:
+        description: Sets of a Firework where you are standing!
+    Creative:
+        description: Sets of a Firework where you are standing!
+    Survival:
+        description: Sets of a Firework where you are standing!
+    Broadcast:
+        description: Sets of a Firework where you are standing!
+    Nick:
+        description: Sets of a Firework where you are standing!
+permissions:
+    maurfun.firework:
+        description: Use the setmotd command to change the MOTD.
+        default: op
+    maurfun.firework.coal:
+        description: yeah
+        default: op
+    maurfun.firework.gold:
+        description: yeah
+        default: op
+    maurfun.firework.diamond:
+        description: yeah
+        default: op
+    maurfun.firework.red:
+        description: yeah
+        default: op
+    maurfun.firework.green:
+        description: yeah
+        default: op
+    maurfun.firework.vim:
+        description: yeah
+        default: op
