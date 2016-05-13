@@ -1,0 +1,7 @@
+name: HarborHub
+main: me.Roam.HarborHub
+version: 1.0
+commands:
+	hello:
+		description: Replies with a greeting.
+		usage: /<command>
